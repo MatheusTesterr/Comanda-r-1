@@ -7,7 +7,7 @@ export default function Comanda() {
         <View style={styles.container}>
             <View>
                 <Text>Olá,</Text>
-                <Text>Arthur</Text>
+                <Text>Matheus</Text>
             </View>
 
             <View>
