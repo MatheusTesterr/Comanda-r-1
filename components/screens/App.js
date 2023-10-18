@@ -15,5 +15,6 @@ export default function App() {
         <Stack.Screen name="Cadastro" component={Cadastro} />
       </Stack.Navigator>
     </NavigationContainer>
+    ttt
   );
 }
